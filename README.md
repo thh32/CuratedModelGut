@@ -25,7 +25,7 @@ This is a resource for the community. We aim to provide high-quality metadata fo
 The CuratedModelGut was initiated as part of INFOGUT (https://infogut.eu/), an EU COST action (CA23110) focused on the standardisation of in vitro model gut experiments. Within INFOGUT, Working group 4 is focused on the bioinformatic analysis and storage of data, including making data FAIR for long term use and reuse. If you wish to join INFOGUT, please register on the COST website (https://www.cost.eu/actions/CA23110/).
 
 ## Wanting to contribute?
-Our global team of contributers are always looking to engage with new members, if you want to join in and contribute some studies, either your own or from the literature, please follow our [guide](../../wiki/CuratedModelGut_guide)
+Our global team of contributers are always looking to engage with new members, if you want to join in and contribute some studies, either your own or from the literature, please follow our [guide](../../wiki/CuratedModelGut-guide)
 
 If you have a specific question about curating a sample or study, look at our [FAQ](../../wiki/FAQ) page, where we have answered previous questions after discussing them as a group in our monthly meetings.
 
