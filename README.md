@@ -1,5 +1,7 @@
 # CuratedModelGut
 
+<img src="https://github.com/thh32/CuratedModelGut/tree/main/assets/images/logo.png" alt="CuratedModelGut logo" width="450" height="150"/>
+
 ## What is CuratedModelGut:
 This is a repository of manually curated omics data from studies using in vitro model systems.
 
