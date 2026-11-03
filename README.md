@@ -29,6 +29,9 @@ Our global team of contributers are always looking to engage with new members, i
 
 If you have a specific question about curating a sample or study, look at our [FAQ](../../wiki/FAQ) page, where we have answered previous questions after discussing them as a group in our monthly meetings.
 
+## Current status of studies
+The current status of each study can be seen in the file 'FILENAMEHERE'.
+
 ## Citation
 TEMPORARY PAPER CITATION et al.
 
