@@ -1,7 +1,4 @@
-# CuratedModelGut
-
 ![logo](assets/images/logo.png)
-
 ## What is CuratedModelGut:
 This is a repository of manually curated omics data from studies using in vitro model systems.
 
